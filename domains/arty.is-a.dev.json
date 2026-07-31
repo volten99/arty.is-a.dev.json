@@ -1,0 +1,11 @@
+{
+  "description": "Arty — AI customer service agent platform (chat, email, voice)",
+  "repo": "https://github.com/volten99",
+  "owner": {
+    "username": "volten99",
+    "email": "martinnikolov381@gmail.com"
+  },
+  "record": {
+    "MX": ["mx.sendgrid.net"]
+  }
+}
